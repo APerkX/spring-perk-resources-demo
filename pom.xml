@@ -5,7 +5,7 @@
 	<artifactId>spring-perk-resources</artifactId>
 	<version>0.0.0_alpha</version>
 	<name>spring-perk-resources</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project archetype</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
